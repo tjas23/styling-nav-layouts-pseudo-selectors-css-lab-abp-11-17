@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -64,7 +64,7 @@ footer{
   color: #CCC;
 }
 
-header a:hover {
+nav a:hover {
   text-decoration: underline;
   color: #0056b3;
 }
